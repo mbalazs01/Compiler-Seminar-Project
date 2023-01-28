@@ -1,0 +1,33 @@
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.exe.config
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.exe
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.pdb
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.AssemblyReference.cache
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.SuggestedBindingRedirects.cache
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.BeadandóProjekt.resources
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.Properties.Resources.resources
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.GenerateResource.cache
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.CoreCompileInputs.cache
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.exe
+D:\Makai Balázs\Beadandó\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.pdb
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.exe.config
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.exe
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.pdb
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.AssemblyReference.cache
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.Properties.Resources.resources
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.GenerateResource.cache
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.exe
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.pdb
+C:\Users\makai\Downloads\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.Assignment.resources
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.exe.config
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.exe
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\bin\Debug\ForditóProgBeadandóWINFORM.pdb
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.AssemblyReference.cache
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.Assignment.resources
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.Properties.Resources.resources
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.GenerateResource.cache
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.exe
+C:\Users\makai\Desktop\ForditóProgBeadandóWINFORM\ForditóProgBeadandóWINFORM\obj\Debug\ForditóProgBeadandóWINFORM.pdb
